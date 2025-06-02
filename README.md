@@ -18,3 +18,5 @@ Develop AWS Lambda functions to start and stop EC2 instances.
 Use Amazon EventBridge to schedule the Lambda invocations.
 
 Verify and validate the automation process.
+
+##Key Concepts
